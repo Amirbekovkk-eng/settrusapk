@@ -1,0 +1,121 @@
+{
+  "apk": "/Users/kamalamirbekov/Documents/Changan Projects/Aplications/Github/Q07Rusifikator_v1.24.1_settings/Q07Rusifikator_v1.24.1_settings.apk",
+  "size": 898466,
+  "sha256": "73225f4a61a62f268f8f8c771a39e441badfdfc88efb4373a1ae0011563ac772",
+  "entries": [
+    {
+      "name": "resources.arsc",
+      "size": 1784,
+      "compressed": 1784,
+      "sha256": "04a8bf9500e8f1c5999234685d6eb849937dd919ab0112db2725729f7268135f"
+    },
+    {
+      "name": "res/drawable-nodpi/logo.png",
+      "size": 25644,
+      "compressed": 25638,
+      "sha256": "18bc80fd5d2fff64f9d56fb3a492311ed13007dee7110504f3a105ab5aa73304"
+    },
+    {
+      "name": "res/drawable-nodpi/qr_forum.png",
+      "size": 926,
+      "compressed": 598,
+      "sha256": "5d1f42ff905d854d20242fa1e7ed713ec2853a9e350da8b8a29993e15b7e3ecd"
+    },
+    {
+      "name": "res/mipmap-hdpi/ic_launcher_round.png",
+      "size": 5847,
+      "compressed": 5852,
+      "sha256": "8f9d0931992b798436ccc206c32add6a1787a1e95c58e4d257df876c395460c9"
+    },
+    {
+      "name": "res/mipmap-hdpi/ic_launcher.png",
+      "size": 4377,
+      "compressed": 4382,
+      "sha256": "d23ae20b31efcc6e474ada98715701c0dcf0bdaff2d05fda10f3970c39477c4a"
+    },
+    {
+      "name": "res/mipmap-xxhdpi/ic_launcher_round.png",
+      "size": 14166,
+      "compressed": 14171,
+      "sha256": "c3d0411e978be280531a780e3cb80b19458ab0d642f0192ee2c1d340155e1595"
+    },
+    {
+      "name": "res/mipmap-xxhdpi/ic_launcher.png",
+      "size": 11192,
+      "compressed": 11197,
+      "sha256": "794a289daf4c49be05a7fea71fbcbe36db8f78fa1003feffce311d7b47663071"
+    },
+    {
+      "name": "res/mipmap-xxxhdpi/ic_launcher_round.png",
+      "size": 21163,
+      "compressed": 21173,
+      "sha256": "0979551147e42a2ae29b7311940e48d5192ea63d2e99d8d2354b5aeb812a736a"
+    },
+    {
+      "name": "res/mipmap-xxxhdpi/ic_launcher.png",
+      "size": 17161,
+      "compressed": 17171,
+      "sha256": "7feacdba63b69616d849e74d8639e742a5fc5b8cff6cc527be4be62e0a2b81bc"
+    },
+    {
+      "name": "res/mipmap-xhdpi/ic_launcher_round.png",
+      "size": 8452,
+      "compressed": 8457,
+      "sha256": "e457843c3098c3f46a05e7422129e9a6f2122bde118c727298bd2702d1331c6d"
+    },
+    {
+      "name": "res/mipmap-xhdpi/ic_launcher.png",
+      "size": 6565,
+      "compressed": 6570,
+      "sha256": "399407a82ea7aa1876de70b32e4dec44a50e2d331bd46ef171f2c0ae86294e9f"
+    },
+    {
+      "name": "res/mipmap-mdpi/ic_launcher_round.png",
+      "size": 3632,
+      "compressed": 3637,
+      "sha256": "894a6e0b904f9f6ca0ba920ecdefb5892e6b8731812b24da276370769a223f4c"
+    },
+    {
+      "name": "res/mipmap-mdpi/ic_launcher.png",
+      "size": 2678,
+      "compressed": 2683,
+      "sha256": "1530fc475d254334fd8b71cbac7b8b6eddbd79b93c834ccf7c70ee2248a45c37"
+    },
+    {
+      "name": "classes.dex",
+      "size": 76304,
+      "compressed": 34577,
+      "sha256": "2ad4ac773b6b675b6cd49efa65aecb5c80f6cec933ba59f1470ccd18b435b6a5"
+    },
+    {
+      "name": "AndroidManifest.xml",
+      "size": 8376,
+      "compressed": 2144,
+      "sha256": "41278d73f2e8d4896e07140de7a2c2b50007ea70c92d2e727fea079e9bfb6548"
+    },
+    {
+      "name": "assets/scrcpy/scrcpy-server.jar",
+      "size": 733706,
+      "compressed": 728339,
+      "sha256": "deacb991ed2509715160ffdc7907e47b4160eb30d1566217e9047fd5b8850cae"
+    },
+    {
+      "name": "META-INF/PLATFORM.SF",
+      "size": 1789,
+      "compressed": 869,
+      "sha256": "69e9cc44c708e9d5cdcb428d7233d58e405a584ef9582be367e13812bdc47675"
+    },
+    {
+      "name": "META-INF/PLATFORM.RSA",
+      "size": 1722,
+      "compressed": 1163,
+      "sha256": "e8a04a60625132afe21cd3f70b93f428ac2f7b7487975fdda9553f6a8e012b49"
+    },
+    {
+      "name": "META-INF/MANIFEST.MF",
+      "size": 1662,
+      "compressed": 785,
+      "sha256": "75bd01cf9a5d591f67d4614144d27e9dd53661c3fb82b8ac8b3dd34abe837ffb"
+    }
+  ]
+}

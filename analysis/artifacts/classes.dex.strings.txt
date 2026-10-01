@@ -1,0 +1,2444 @@
+dex
+039
+��-�xz�[�
+J?5
+JT#�_
+xV4
+Удаление може�
+ на�
+и�
+або�
+У. �
+е�
+н�
+ его можно на вкладке «Удал�
+нн�
+е».
+Разме�
+ vecentek.model=
+ | 
+ · 
+ · в�
+ем�
+ и�
+п�
+авлено на 
+ · в�
+ем�
+о�
+ное
+ · занима�
+ · не �
+дало�
+ по�
+ави�
+ в�
+ем�
+ · не�
+е�
+и дл�
+ве�
+ки в�
+емени
+ · �
+и�
+а�
+азме�
+ не �
+ановлен
+аз�
+е�
+ение на �
+ановк�
+&$r8$lambda$AgPd6vOmizxRZDBecwsOX4hfB3Q
+&$r8$lambda$qYzRqrN6-JznYRoG-0fAO5xiO4Y
+%.1f
+%.2f
+()V
+*>;
+*>;)V
+.INSTALL.
+.UNINSTALL.
+.apk
+4.1
+ : �
+ановка п�
+иложений �
+аз�
+е�
+ена
+'; �
+а�
+н�
+е клавиа�
+ вкл�
+ен�
+ об�
+а�
+но: 
+<clinit>
+<init>
+>;)
+>;)V
+ABSTRACT
+ACCENT
+.ADB вкл�
+н: по�
+ в �
+ежиме �
+ой�
+ва (device)
+9ADB в�
+кл�
+ен: по�
+ в �
+ежиме �
+о�
+а (host), �
+ле�
+ки �
+або�
+а�
+Adapter
+AppOps.setMode
+AppsActivity.java
+Asia/Almaty
+Asia/Baku
+Asia/Bishkek
+Asia/Irkutsk
+Asia/Kamchatka
+Asia/Krasnoyarsk
+Asia/Magadan
+Asia/Novosibirsk
+Asia/Omsk
+Asia/Tashkent
+Asia/Tbilisi
+Asia/Vladivostok
+Asia/Yakutsk
+Asia/Yekaterinburg
+Asia/Yerevan
+BAD
+BootReceiver.java
+CARD
+CLASSPATH
+D8$$SyntheticClass
+DEBOUNCE_MS
+DEFAULT_BOLD
+DEFAULT_IME
+DELETE_SYSTEM_APP
+DIM
+ENABLED_IMES
+END
+Europe/Kaliningrad
+Europe/Minsk
+Europe/Moscow
+Europe/Samara
+FIT_CENTER
+FLF
+GUARD_PROPS
+IJ)V
+IJJ
+ILF
+ILI
+ILII
+ILIL
+ILL
+ILLL
+Installer.java
+Installers.java
+JJJ
+JLI
+JLJ
+JLL
+KeyboardGuard.java
+LCC
+LII
+LILL
+LLF
+LLI
+LLII
+LLILI
+LLJ
+LLJJ
+LLL
+LLLI
+LLLII
+LLLL
+LLZ
+LLZL
+Landroid/app/Activity;
+Landroid/app/AlarmManager;
+!Landroid/app/AlertDialog$Builder;
+Landroid/app/AlertDialog;
+Landroid/app/AppOpsManager;
+"Landroid/app/Notification$Builder;
+Landroid/app/Notification;
+!Landroid/app/NotificationChannel;
+!Landroid/app/NotificationManager;
+Landroid/app/PendingIntent;
+Landroid/app/Service;
+ Landroid/app/usage/StorageStats;
+'Landroid/app/usage/StorageStatsManager;
+#Landroid/content/BroadcastReceiver;
+Landroid/content/ComponentName;
+!Landroid/content/ContentResolver;
+Landroid/content/Context;
+1Landroid/content/DialogInterface$OnClickListener;
+!Landroid/content/DialogInterface;
+Landroid/content/Intent;
+Landroid/content/IntentFilter;
+Landroid/content/IntentSender;
+*Landroid/content/SharedPreferences$Editor;
+#Landroid/content/SharedPreferences;
+$Landroid/content/pm/ApplicationInfo;
+ Landroid/content/pm/PackageInfo;
+-Landroid/content/pm/PackageInstaller$Session;
+3Landroid/content/pm/PackageInstaller$SessionParams;
+%Landroid/content/pm/PackageInstaller;
+9Landroid/content/pm/PackageManager$NameNotFoundException;
+#Landroid/content/pm/PackageManager;
+ Landroid/content/pm/ResolveInfo;
+ Landroid/content/pm/ServiceInfo;
+%Landroid/content/pm/VersionedPackage;
+"Landroid/content/res/AssetManager;
+Landroid/content/res/Resources;
+"Landroid/database/ContentObserver;
+Landroid/graphics/Typeface;
+)Landroid/graphics/drawable/ColorDrawable;
+$Landroid/graphics/drawable/Drawable;
+,Landroid/graphics/drawable/GradientDrawable;
+Landroid/net/LocalSocket;
+*Landroid/net/LocalSocketAddress$Namespace;
+ Landroid/net/LocalSocketAddress;
+Landroid/net/Uri;
+Landroid/os/Build$VERSION;
+Landroid/os/Bundle;
+Landroid/os/Handler;
+Landroid/os/HandlerThread;
+Landroid/os/IBinder;
+Landroid/os/Looper;
+Landroid/os/Parcelable;
+Landroid/os/Process;
+Landroid/os/SystemClock;
+Landroid/os/UserHandle;
+#Landroid/os/storage/StorageManager;
+"Landroid/provider/Settings$Global;
+"Landroid/provider/Settings$Secure;
+#Landroid/text/TextUtils$TruncateAt;
+Landroid/util/DisplayMetrics;
+Landroid/util/Log;
+#Landroid/view/View$OnClickListener;
+Landroid/view/View;
+%Landroid/view/ViewGroup$LayoutParams;
+Landroid/view/ViewGroup;
+*Landroid/view/inputmethod/InputMethodInfo;
+-Landroid/view/inputmethod/InputMethodManager;
+0Landroid/widget/AdapterView$OnItemClickListener;
+3Landroid/widget/AdapterView$OnItemSelectedListener;
+Landroid/widget/AdapterView;
+Landroid/widget/AdapterView<
+Landroid/widget/ArrayAdapter;
+Landroid/widget/BaseAdapter;
+Landroid/widget/Button;
+$Landroid/widget/ImageView$ScaleType;
+Landroid/widget/ImageView;
+*Landroid/widget/LinearLayout$LayoutParams;
+Landroid/widget/LinearLayout;
+Landroid/widget/ListAdapter;
+Landroid/widget/ListView;
+Landroid/widget/ScrollView;
+Landroid/widget/Spinner;
+Landroid/widget/SpinnerAdapter;
+Landroid/widget/TextView;
+Landroid/widget/Toast;
+Lang.java
+"Ldalvik/annotation/EnclosingClass;
+#Ldalvik/annotation/EnclosingMethod;
+Ldalvik/annotation/InnerClass;
+!Ldalvik/annotation/MemberClasses;
+$Ldalvik/annotation/MethodParameters;
+Ldalvik/annotation/Signature;
+Ldalvik/annotation/Throws;
+Ljava/io/BufferedReader;
+Ljava/io/File;
+Ljava/io/FileInputStream;
+Ljava/io/FileOutputStream;
+Ljava/io/IOException;
+Ljava/io/InputStream;
+Ljava/io/InputStreamReader;
+Ljava/io/OutputStream;
+Ljava/io/Reader;
+Ljava/lang/CharSequence;
+Ljava/lang/Class;
+Ljava/lang/Double;
+Ljava/lang/Exception;
+'Ljava/lang/IllegalThreadStateException;
+Ljava/lang/Integer;
+ Ljava/lang/InterruptedException;
+Ljava/lang/Long;
+Ljava/lang/Math;
+!Ljava/lang/NoSuchMethodException;
+Ljava/lang/Object;
+Ljava/lang/Process;
+Ljava/lang/ProcessBuilder;
+Ljava/lang/Runnable;
+Ljava/lang/Runtime;
+Ljava/lang/SecurityException;
+Ljava/lang/String;
+Ljava/lang/StringBuilder;
+Ljava/lang/System;
+Ljava/lang/Thread;
+Ljava/lang/Throwable;
+-Ljava/lang/reflect/InvocationTargetException;
+Ljava/lang/reflect/Method;
+Ljava/net/DatagramPacket;
+Ljava/net/DatagramSocket;
+Ljava/net/InetAddress;
+Ljava/net/ServerSocket;
+Ljava/net/Socket;
+Ljava/util/ArrayDeque;
+Ljava/util/ArrayDeque<
+Ljava/util/ArrayList;
+Ljava/util/Collection;
+Ljava/util/Collections;
+Ljava/util/Comparator;
+Ljava/util/Iterator;
+Ljava/util/LinkedHashSet;
+Ljava/util/List;
+Ljava/util/List<
+Ljava/util/Locale;
+Ljava/util/Map;
+Ljava/util/Map<
+Ljava/util/Set;
+Ljava/util/Set<
+Ljava/util/TimeZone;
+Ljava/util/UUID;
+(Ljava/util/concurrent/ConcurrentHashMap;
+%Ljava/util/concurrent/CountDownLatch;
+&Ljava/util/concurrent/ExecutorService;
+ Ljava/util/concurrent/Executors;
+Ljava/util/concurrent/TimeUnit;
++Ljava/util/concurrent/atomic/AtomicInteger;
+8Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda0;
+9Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda10;
+9Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda11;
+9Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda12;
+9Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda13;
+9Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda14;
+9Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda15;
+9Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda16;
+8Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda1;
+8Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda2;
+8Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda3;
+8Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda4;
+8Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda5;
+8Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda6;
+8Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda7;
+8Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda8;
+8Lru/q07/overlays/AppsActivity$$ExternalSyntheticLambda9;
+ Lru/q07/overlays/AppsActivity$1;
+&Lru/q07/overlays/AppsActivity$Adapter;
+"Lru/q07/overlays/AppsActivity$Row;
+Lru/q07/overlays/AppsActivity;
+Lru/q07/overlays/BootReceiver;
+Lru/q07/overlays/Installer$1;
+"Lru/q07/overlays/Installer$Result;
+Lru/q07/overlays/Installer;
+Lru/q07/overlays/Installers;
+9Lru/q07/overlays/KeyboardGuard$$ExternalSyntheticLambda0;
+!Lru/q07/overlays/KeyboardGuard$1;
+Lru/q07/overlays/KeyboardGuard;
+Lru/q07/overlays/Lang;
+9Lru/q07/overlays/MainActivity$$ExternalSyntheticLambda15;
+9Lru/q07/overlays/MainActivity$$ExternalSyntheticLambda23;
+9Lru/q07/overlays/MainActivity$$ExternalSyntheticLambda28;
+8Lru/q07/overlays/MainActivity$$ExternalSyntheticLambda9;
+Lru/q07/overlays/MainActivity;
+2Lru/q07/overlays/Scrcpy$$ExternalSyntheticLambda0;
+2Lru/q07/overlays/Scrcpy$$ExternalSyntheticLambda1;
+2Lru/q07/overlays/Scrcpy$$ExternalSyntheticLambda2;
+Lru/q07/overlays/Scrcpy;
+<Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda0;
+=Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda10;
+=Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda11;
+=Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda12;
+=Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda13;
+=Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda14;
+=Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda15;
+=Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda16;
+=Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda17;
+=Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda18;
+<Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda1;
+<Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda2;
+<Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda3;
+<Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda4;
+<Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda5;
+<Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda6;
+<Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda7;
+<Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda8;
+<Lru/q07/overlays/SettingsActivity$$ExternalSyntheticLambda9;
+>Lru/q07/overlays/SettingsActivity$1$$ExternalSyntheticLambda0;
+$Lru/q07/overlays/SettingsActivity$1;
+>Lru/q07/overlays/SettingsActivity$2$$ExternalSyntheticLambda0;
+>Lru/q07/overlays/SettingsActivity$2$$ExternalSyntheticLambda1;
+$Lru/q07/overlays/SettingsActivity$2;
+$Lru/q07/overlays/SettingsActivity$3;
+"Lru/q07/overlays/SettingsActivity;
+Lru/q07/overlays/Sys;
+Lru/q07/overlays/TimeSync;
+Lru/q07/overlays/Ui;
+Lru/q07/overlays/UsbMode;
+<Lru/q07/overlays/WarnFixService$1$$ExternalSyntheticLambda0;
+"Lru/q07/overlays/WarnFixService$1;
+ Lru/q07/overlays/WarnFixService;
+MAX_APPLIES_PER_MIN
+MONOSPACE
+MainActivity.java
+NTP
+PERIOD
+PI_FLAGS
+PLATE
+PORT
+PREF
+PREF_DISABLED
+PREF_LAST
+PREF_OTHERS
+PREF_TARGET
+PREF_TZ
+PROP
+Q07 Р�
+и�
+ика�
+о�
+Q07: в�
+ем�
+ и клавиа�
+Q07Overlays
+REQUEST_INSTALL_PACKAGES
+RUSTORE
+Result
+Row
+RuStore
+SCALES
+SDK_INT
+SECONDS
+SEQ
+SOCKET
+Scrcpy.java
+SettingsActivity.java
+Sys.java
+SystemProperties.set(
+TAG
+TXT
+TYPE
+TimeSync.java
+UTC%+d
+UUID_DEFAULT
+Ui.java
+UsbMode.java
+VERSION
+VII
+VIIF
+VIIII
+VIL
+VILI
+VIZ
+VLF
+VLI
+VLII
+VLIL
+VLILI
+VLL
+VLLI
+VLLIJ
+VLLL
+VLLLL
+VLZ
+VLZL
+VZL
+WARN
+WarnFixService.java
+ZJL
+ZLIL
+ZLJ
+ZLL
+ZLLI
+ZLLL
+ZLZ
+ZONES
+ZZZ
+[Ljava/lang/Class;
+[Ljava/lang/Object;
+[Ljava/lang/String;
+[[Ljava/lang/String;
+abs
+accept
+acceptLoop
+access$000
+access$100
+access$200
+access$300
+access$400
+access$500
+access$600
+access$700
+accessFlags
+act
+adapter
+adbBtn
+adbLabel
+adbOn
+add
+addAll
+addFlags
+addLast
+addSuppressed
+addView
+alive
+all
+allow
+allowed
+android
+android.content.pm.extra.STATUS
+'android.content.pm.extra.STATUS_MESSAGE
+android.intent.action.MAIN
+android.intent.action.VIEW
+android.intent.extra.INTENT
+android.os.SystemProperties
+android.os.UserHandle
+&android.settings.INPUT_METHOD_SETTINGS
+android.settings.SETTINGS
+android.view.InputMethod
+ android:request_install_packages
+apkSize
+appCtx
+app_process
+append
+appliedScale
+applies
+apply
+applyTab
+appops
+audio=false
+auto_time_zone
+await
+base.apk
+bridge
+build
+button
+cached
+cleanup=false
+clear
+close
+cmd
+cmd appops
+ com.android.permissioncontroller
+com.android.providers.
+com.android.settings
+com.android.settings.Settings
+com.android.shell
+com.android.systemui
+com.genymobile.scrcpy.Server
+com.incall.apps.hmiservice
+com.incall.apps.intelligenthmi
+-com.incall.apps.intelligenthmi.SplashActivity
+com.incall.apps.sdalauncher
+commit
+compare
+compareToIgnoreCase
+computeSizes
+concat
+confirm
+connect
+contains
+control=true
+copy
+countDown
+createNotificationChannel
+createSession
+current
+currentThread
+currentTimeMillis
+debug.ro.debuggable
+default_input_method
+delete
+density
+destroy
+disableInstallGuard
+disableOthers
+disableVecentek
+drainLog
+drawable
+edit
+elapsedRealtime
+enable 
+enablePackage
+enabled_input_methods
+ensureServer
+environment
+equals
+exec
+execute
+exitValue
+extract
+f$0
+f$1
+f$2
+fallbackSizes
+finish
+flags
+flattenToShortString
+flush
+fmt
+footer
+forName
+format
+fsync
+get
+getAbsolutePath
+getAndIncrement
+getAppBytes
+getApplicationContext
+getApplicationEnabledSetting
+getApplicationInfo
+getAssets
+getBoolean
+getBroadcast
+getByName
+getCacheBytes
+getCacheDir
+getClass
+getContentResolver
+getCount
+getData
+getDataBytes
+getDisplayMetrics
+getDrawable
+getFilesDir
+getFloat
+getIdentifier
+getInputMethodList
+getInputStream
+getInstalledApplications
+getIntExtra
+getIntentSender
+getItem
+getItemId
+getLaunchIntentForPackage
+getLong
+getLooper
+getMainLooper
+getMessage
+getMethod
+getOffset
+getOutputStream
+getPackageInfo
+getPackageInstaller
+getPackageManager
+getPackageName
+getParcelableExtra
+getResources
+getRuntime
+getSettingsActivity
+getSharedPreferences
+getSimpleName
+getString
+getStringExtra
+getSystemService
+getTag
+getTargetException
+getTimeZone
+getUriFor
+getView
+global 
+guardOff
+handler
+hasNext
+held
+https://t.me/forum_ruscar
+icon
+indexOf
+installAsset
+installExistingPackage
+installExistingPackageAsUser
+install_non_market_apps
+installed
+intValue
+invoke
+isEmpty
+isInstalled
+isInterrupted
+isProtected
+isRunning
+iterator
+join
+kbd_disabled
+kbd_others_off
+kbd_target
+label
+*lambda$act$13$ru-q07-overlays-AppsActivity
+lambda$applyTab$8
+2lambda$computeSizes$7$ru-q07-overlays-AppsActivity
+lambda$confirm$14
+lambda$drainLog$1
+.lambda$onCreate$0$ru-q07-overlays-AppsActivity
+2lambda$onCreate$0$ru-q07-overlays-SettingsActivity
+.lambda$onCreate$1$ru-q07-overlays-AppsActivity
+.lambda$onCreate$1$ru-q07-overlays-MainActivity
+2lambda$onCreate$1$ru-q07-overlays-SettingsActivity
+3lambda$onCreate$10$ru-q07-overlays-SettingsActivity
+3lambda$onCreate$11$ru-q07-overlays-SettingsActivity
+3lambda$onCreate$12$ru-q07-overlays-SettingsActivity
+3lambda$onCreate$13$ru-q07-overlays-SettingsActivity
+3lambda$onCreate$14$ru-q07-overlays-SettingsActivity
+3lambda$onCreate$15$ru-q07-overlays-SettingsActivity
+3lambda$onCreate$16$ru-q07-overlays-SettingsActivity
+3lambda$onCreate$17$ru-q07-overlays-SettingsActivity
+.lambda$onCreate$2$ru-q07-overlays-AppsActivity
+2lambda$onCreate$2$ru-q07-overlays-SettingsActivity
+2lambda$onCreate$3$ru-q07-overlays-SettingsActivity
+2lambda$onCreate$4$ru-q07-overlays-SettingsActivity
+2lambda$onCreate$5$ru-q07-overlays-SettingsActivity
+2lambda$onCreate$6$ru-q07-overlays-SettingsActivity
+2lambda$onCreate$7$ru-q07-overlays-SettingsActivity
+.lambda$onCreate$8$ru-q07-overlays-MainActivity
+2lambda$onCreate$8$ru-q07-overlays-SettingsActivity
+2lambda$onCreate$9$ru-q07-overlays-SettingsActivity
+:lambda$onItemSelected$0$ru-q07-overlays-SettingsActivity$1
+:lambda$onItemSelected$0$ru-q07-overlays-SettingsActivity$2
+:lambda$onItemSelected$1$ru-q07-overlays-SettingsActivity$2
+1lambda$onRowClick$10$ru-q07-overlays-AppsActivity
+1lambda$onRowClick$11$ru-q07-overlays-AppsActivity
+1lambda$onRowClick$12$ru-q07-overlays-AppsActivity
+0lambda$onRowClick$9$ru-q07-overlays-AppsActivity
+lambda$pipe$0
+.lambda$qrBlock$23$ru-q07-overlays-MainActivity
+,lambda$reload$3$ru-q07-overlays-AppsActivity
+lambda$reload$4
+,lambda$reload$5$ru-q07-overlays-AppsActivity
+,lambda$reload$6$ru-q07-overlays-AppsActivity
+-lambda$run$0$ru-q07-overlays-WarnFixService$1
+lambda$start$0
+,lambda$toast$15$ru-q07-overlays-AppsActivity
+0lambda$toast$18$ru-q07-overlays-SettingsActivity
+,lambda$toast$27$ru-q07-overlays-MainActivity
+lastLog
+latch
+launchServer
+leftMargin
+length
+loadIcon
+loadLabel
+log_level=info
+logo
+longValue
+makeText
+max
+max_size=1600
+message
+myUid
+myUserHandle
+myUserId
+name
+names
+newSingleThreadExecutor
+next
+notifyDataSetChanged
+ntp 
+ntp1.vniiftri.ru
+ntpTime
+observer
+onBind
+onChange
+onClick
+onCreate
+onDestroy
+onItemClick
+onItemSelected
+onNothingSelected
+onReceive
+onResume
+onRowClick
+onStartCommand
+open
+openAndroidSettings
+openEngineeringMenu
+openKeyboardSettings
+openSession
+openWrite
+othersBtn
+othersLabel
+othersOff
+out
+packageName
+package_verifier_enable
+parse
+percent
+pipe
+pkg
+pool.ntp.org
+post
+postDelayed
+prefs
+prop
+put
+putBoolean
+putFloat
+putGlobal
+putInt
+putLong
+putSecure
+putString
+q07
+q07-kbd
+qrBlock
+qr_forum
+queryIntentServices
+queryStatsForPackage
+quitSafely
+read
+read32
+readLine
+receive
+recreate
+redirectErrorStream
+register
+registerContentObserver
+registerReceiver
+reload
+remove
+removeCallbacks
+removeCallbacksAndMessages
+removeFirst
+replace
+res
+restoreExisting
+restoreInstallGuard
+restoreOthers
+rightMargin
+rotary
+round
+row
+ru.lang.
+ru.pool.ntp.org
+ru.vk.store
+run
+runOnUiThread
+running
+scale
+scrcpy
+scrcpy bridge
+scrcpy restart
+scrcpy start
+pscrcpy зап�
+ен. �
+а комп�
+е�
+е: adb forward tcp:1234 tcp:8099 ; scrcpy --tunnel-host=127.0.0.1 --tunnel-port=1234
+scrcpy о�
+ановлен
+scrcpy �
+же зап�
+ен (по�
+ 8099)
+scrcpy-bridge
+scrcpy-server заве�
+ил�
+scrcpy-server.jar
+scrcpy-server: 
+scrcpy/scrcpy-server.jar
+:scrcpy: �
+е�
+ве�
+ заве�
+н, пе�
+езап�
+к дл�
+ нового подкл�
+ени�
+$scrcpy: �
+е�
+ве�
+ зап�
+ен, мо�
+ на 8099
+scrcpy: �
+е�
+ве�
+ не о�
+к�
+л �
+оке�
+scrcpyBtn
+section
+secure 
+select
+selected
+selectedIndex
+send
+server
+serviceInfo
+set
+setAdapter
+setAdb
+setAllCaps
+setAlpha
+setApplicationEnabledSetting
+setBackground
+setBackgroundColor
+setClassName
+setColor
+setContentTitle
+setContentView
+setCornerRadius
+setDivider
+setDividerHeight
+setDropDownViewResource
+setEllipsize
+setGravity
+setImageDrawable
+setImageResource
+setLayoutParams
+setMessage
+setMode
+setNegativeButton
+setOnClickListener
+setOnItemClickListener
+setOnItemSelectedListener
+setOngoing
+setOrientation
+setPackage
+setPadding
+setPositiveButton
+setProp
+setPropSh
+setReadable
+setScale
+setScaleType
+setSelection
+setSelector
+setSingleLine
+setSize
+setSmallIcon
+setSoTimeout
+setTag
+setText
+setTextColor
+setTextSize
+setTime
+setTimeZone
+setTitle
+setTypeface
+setprop
+setprop 
+setprop usb.role.state
+show
+shown
+shutdown
+shutdownNow
+size
+sizeCache
+sizeOf
+sizesDone
+sleep
+sort
+sourceDir
+split
+splitSourceDirs
+stage_
+start
+startActivity
+startForeground
+startForegroundService
+startsWith
+status
+stop
+substring
+sync
+syncIfDue
+system
+t.me/forum_ruscar
+tab
+tabBtns
+tail
+target
+this$0
+thread
+tick
+time.cloudflare.com
+time.google.com
+timesync: 
+toLowerCase
+toString
+toast
+toggle
+toggleOthers
+topMargin
+trim
+tunnel_forward=true
+tz_last_sync
+ui_scale
+uid
+unflattenFromString
+uninstall
+unregisterContentObserver
+unregisterReceiver
+unsafeCheckOpNoThrow
+usb.role.state
+userId
+val$imes
+val$reapply
+value
+valueOf
+vecentek.model
+vecentek: debug.ro.debuggable=
+verifier_verify_adb_installs
+video_bit_rate=8000000
+waitFor
+warn
+windowStart
+worker
+write
+0» за�
+и�
+ено: без него �
+У може�
+ пе�
+е�
+а�
+або�
+а�
+лма�
+ак�
+и�
+кек
+е�
+н�
+е�
+н�
+ п�
+иложение?
+е�
+н�
+а�
+н�
+е клавиа�
+кл�
+и�
+ ADB
+ладиво�
+ок
+нимание: п�
+иложение не под system uid �
+ на�
+ойки не �
+або�
+а�
+. �
+жна подпи�
+ пла�
+о�
+менн�
+м кл�
+ом.
+озв�
+а�
+ено: 
+оп�
+о�
+ и помо�
+б�
+анна�
+ клавиа�
+а не п�
+именила�
+ о�
+ал�
+н�
+е не о�
+кл�
+а�
+, ина�
+е о�
+ане�
+ без клавиа�
+б�
+анн�
+ клавиа�
+ п�
+иложение возв�
+а�
+ае�
+, е�
+ли �
+и�
+ема подмени�
+ е�
+ на �
+а�
+н�
+. «�
+кл�
+и�
+ о�
+ал�
+н�
+е» �
+би�
+ае�
+а�
+н�
+е клавиа�
+ов�
+ем; ве�
+н�
+ и�
+ можно �
+ой же кнопкой.
+б�
+анн�
+й по�
+ и �
+о�
+ное в�
+ем�
+ из ин�
+е�
+не�
+а �
+ав�
+ ав�
+ома�
+и�
+е�
+ки �
+аз в �
+а�
+кл�
+а�
+ ADB: подкл�
+ение по кабел�
+ к комп�
+е�
+ обо�
+в�
+кл�
+и�
+ ADB
+а�
+а и в�
+ем�
+ка�
+е�
+инб�
+еван
+аг�
+зка �
+пи�
+ка�
+ап�
+и�
+ scrcpy
+нжене�
+ное мен�
+нжене�
+ное мен�
+ не найдено
+н�
+е�
+ей�
+к�
+алининг�
+ад
+ам�
+а�
+ка
+лавиа�
+лавиа�
+а вкл�
+ена и �
+де�
+живае�
+лавиа�
+а в�
+б�
+ана, но �
+и�
+ема е�
+ не п�
+ин�
+ла (�
+ей�
+а�
+лавиа�
+а:
+лавиа�
+а: не мен�
+е�
+, �
+де�
+жание в�
+кл�
+ено
+а�
+но�
+агадан
+а�
+аб ин�
+е�
+ей�
+а:
+ин�
+о�
+ква
+а�
+ойка клавиа�
+а�
+ойки
+а�
+ойки Android
+е мен�
+е �
+дало�
+ в�
+да�
+е �
+дало�
+ зап�
+и�
+ scrcpy: 
+е �
+дало�
+ о�
+кл�
+и�
+ vecentek
+е �
+дало�
+ о�
+к�
+ на�
+ойки Android
+е �
+дало�
+ пе�
+екл�
+и�
+ по�
+ (�
+ей�
+а�
+е �
+дало�
+ по�
+ави�
+ по�
+е �
+дало�
+еве�
+н�
+й иден�
+и�
+ика�
+о�
+ клавиа�
+ово�
+иби�
+б�
+н�
+б�
+н�
+е и �
+и�
+емн�
+е п�
+иложени�
+ иконкой, названием и �
+азме�
+ом. Си�
+емн�
+е можно ве�
+н�
+м�
+ал�
+н�
+е клавиа�
+ о�
+кл�
+ен�
+анови�
+ scrcpy
+кл�
+и�
+ о�
+ал�
+н�
+е клавиа�
+мена
+кани�
+й�
+е QR-код �
+еле�
+оном
+одкл�
+ение и �
+ановка
+о�
+иложений: 
+иложени�
+одолжи�
+>Разме�
+ показан по �
+айл�
+ APK (�
+а�
+и�
+ика �
+анили�
+а недо�
+пна).
+"Разме�
+: п�
+иложение + данн�
+е + к�
+Раз�
+е�
+и�
+ RuStore �
+ановк�
+Сама�
+Све�
+и�
+ в�
+ем�
+Се�
+ве�
+або�
+ае�
+ на �
+У (без adb push) и �
+ам пе�
+езап�
+кае�
+ дл�
+ каждого подкл�
+ени�
+а комп�
+е�
+е �
+ scrcpy-q07.exe из папки scrcpy 4.1:
+adb forward --remove-all
+scrcpy-q07.exe
+Си�
+ема
+Си�
+емное п�
+иложение «
+Си�
+емное п�
+иложение!
+Си�
+емн�
+$Сна�
+ала в�
+бе�
+и�
+е клавиа�
+ в �
+пи�
+ке
+Та�
+кен�
+Тбили�
+То�
+но �
+дали�
+Т�
+ан�
+л�
+и�
+к�
+ана (scrcpy)
+KУ �
+ой клавиа�
+ не�
+ на�
+оек, а �
+и�
+емн�
+й �
+к�
+ан на�
+оек ввода недо�
+пен
+Удаление п�
+иложений
+Удалено: 
+Удали�
+Удали�
+ п�
+иложение?
+Удал�
+нн�
+IУдал�
+нн�
+е �
+и�
+емн�
+е п�
+иложени�
+. �
+ажми�
+е на п�
+иложение, �
+об�
+ ве�
+н�
+ его.
+Фонов�
+е зада�
+Ча�
+овой по�
+Ча�
+овой по�
+: не в�
+б�
+ан
+%Ш�
+а�
+н�
+е клавиа�
+ вкл�
+ен�
+ об�
+а�
+но: 
+Як�
+без в�
+вода
+за�
+и�
+ено о�
+далени�
+'клавиа�
+а: �
+ли�
+ком �
+а�
+е �
+мен�
+, па�
+за
+клавиа�
+ о�
+кл�
+ен�
+код 
+набл�
+да�
+ел�
+ клавиа�
+на�
+ойки клавиа�
+не вкл�
+ил�
+не задано
+не о�
+кл�
+ил�
+и�
+емное
+пи�
+ок клавиа�
+айма�
+далено · нажми�
+е, �
+об�
+ ве�
+н�
+F`�
+d��+�d
+�d+#
+�D�
+D���
+�67�
+�d+#
+�D�
+D���
+d��+�Djj�d
+�d+#
+�D�
+d:0&�D���DJ��
+<Zi<Z<<
+<<�
+-i�
+;ixxx
+�xyZ
+�K�
+�+=
+<ii
+�i��-
+,x�
+�i-K�
+�iåL
+<iiZ
+Z<��
+Z<=x��Zj=��[i<x
+��x[<
+��z-
+ixKK
+<Zii
+L[W<
+Z�KjM
+�Qu�
+{Y�
+L�.
+hxKK
+;�-KZ
+�<Z
+K�[
+�K��
+�i<�xKZ
+�L�<
+;�K-
+<�c
+;<KK
+���
+<i�
+i<Z
+i�L
+ii�[�Z
+ZM��
+�Zi[
+,-�
+K�i�<
+ii-�-�x\x<
+J-�-
+,��
+<ii
+,��IL
+.��
+,K���
+�ii�I_y�
+<iZ
+=Z<��
+Z<=
+K��=
+K�<�=
+<<�xZ=
+x<Z
+�<<�
+<�<ix=
+K<ix<KZ[ii�
+Z�<<i
+<<Kx��Z<jx=
+K�<ix=
+x<Z
+�<<i
+<xxZ
+�ZxZ
+xZK-Kx�x<ZK�
+YK�
+[�y<�x
+�i�
+�j[
+i��<<
+T! 
+T !
+T!"
+T #
+T!$
+T %
+T!&
+T '
+T!(
+T )
+T!*
+T0+
+U1,
+T2-
+p h
+r 0
+T�.
+n �
+T�.
+q s
+T�.
+q s
+T�.
+q s
+T�.
+q s
+nW�
+T�.
+T�.
+gq s
+T�.
+q s
+T�.
+q s
+T�.
+q s
+e�T�.
+:0&�q t
+T�.
+q s
+T�.
+q s
+T�.
+n �
+T�.
+q s
+T�.
+q s
+nQ�
+FqT�.
+����q@u
+n �
+n �
+T�.
+q@u
+n �
+n �
+�p@
+�n0
+T�.
+q@u
+n �
+T�.
+�q t
+n �
+$@�
+n �
+T�.
+r 0
+T�0
+T�0
+T�.
+T�2
+n �
+T�.
+&2e
+T�.
+T�3
+q w
+!T�.
+U�5
+T�3
+n �
+n �
+J���n �
+U�1
+S�4
+S�4
+q x
+n �
+?n �
+��Z 4
+p@�
+T H
+p@f
+!4r @
+p �
+p �
+�@�
+UV1
+UV5
+(�UV1
+(�UU5
+���
+(�T
+UV1
+��UV5
+��(
+UV1
+��UV5
+��(
+UV1
+��UV5
+��T
+r -
+(�U
+q )
+$0�
+$0�
+51L
+r 0
+��+�(
+�p 
+����n 
+(�T
+Sg4
+��Sf4
+�c(�R
+n �
+(6T
+n �
+n �
+pAq 
+����n 
+�p 
+cn 
+�p0
+U61
+��U65
+��S64
+��r -
+(�r
+U#1
+��U#5
+��S&4
+��r -
+(�r
+Z$4
+T%3
+S&4
+q �
+r05
+�1�
+��"
+p N
+(�\
+p P
+p F
+q@�
+0A�Fq �
+q0�
+n0�
+�A�Fq �
+q0�
+n0�
+n �
+n �
+n �
+n �
+n �
+n �
+n �
+n �
+SP4
+SB4
+q@�
+TD2
+TU2
+n �
+n �
+RPF
+Ta2
+Ta3
+p0^
+pQ~
+T`3
+Tf2
+Ta2
+Ta3
+Sa4
+Sa4
+Ua5
+p0`
+pQ~
+e (
+p0b
+pQ~
+p R
+T H
+p T
+r @
+n e
+"n f
+U@@
+Ta3
+� n
+\E@
+Te/
+x!$
+p0\
+p �
+n �
+2q 
+n �
+n �
+T@3
+q �
+T@3
+UA5
+q0�
+TC2
+T#C
+TD3
+r 6
+r 0
+p0y
+p0y
+TA2
+p0V
+pQ~
+p0y
+T E
+n �
+r .
+ n W
+n �
+(�"
+p o
+[S/
+[V3
+F\V1
+�v8
+t\T5
+n K
+[T2
+[T2
+n J
+[S0
+TT3
+r 4
+UT1
+ZS4
+r -
+q )
+p0Z
+p }
+q0�
+n �
+�n �
+nT�
+n �
+����p@�
+Cp 
+nV�
+Q&"
+p H
+n �
+p@�
+n �
+bp 
+nT�
+$0�
+55T
+p0J
+p0|
+r -
+(�n 
+�p@�
+nU�
+`aT
+p �
+n �
+n �
+p c
+n �
+p0i
+n �
+p L
+?p@
+!Vn0
+p@�
+nV�
+`aT
+p =
+[ I
+Y!K
+T@I
+n@>
+R@K
+T@J
+T@J
+RAK
+n09
+n :
+n 8
+n 1
+Y K
+n ;
+[#J
+T#I
+p D
+p P
+n0Q
+n R
+n S
+p �
+q �
+n N
+p �
+p 6
+n =
+n M
+n 3
+n 3
+n �
+n@�
+p0�
+n _
+p �
+q �
+q �
+lZX
+n0Y
+p >
+Dn@0
+2@(
+n0/
+n0�
+$ �
+n0�
+$ �
+$ �
+n0�
+$ �
+ xn
+~r$~!
+~rI~!
+q0�
+p �
+p 6
+n =
+n0T
+(Bn
+$0�
+n0�
+$0�
+($n
+$0�
+n0�
+�p0^
+$0�
+n 3
+n 3
+n 3
+n 3
+~~�
+}rm~�
+n0V
+n .
+$@�
+n0�
+$@�
+q0�
+n �
+q0�
+p b
+T0R
+n q
+T0R
+n@p
+q }
+n �
+(*�
+(�n
+n �
+n0�
+q }
+��n
+r 7
+(�"
+n �
+��n
+n �
+��n
+n �
+(�n U
+(�n@\
+c(r -
+(�r
+r0I
+n �
+!45B
+r 7
+(�r 8
+r0C
+n U
+n@\
+p 6
+n0[
+(�"
+n ]
+$ �
+r -
+(�n
+r0F
+r0I
+n �
+V553
+("n
+n@\
+(�q
+r D
+(Pq
+r0C
+q �
+r0I
+r0@
+r D
+(]n
+p s
+p n
+p �
+p0�
+n@#
+2En
+n@#
+&5(
+n o
+n $
+r0I
+r0@
+r0@
+n0-
+T `
+T!a
+n �
+n �
+n �
+pAq 
+����n 
+��+�(
+�p �
+p �
+p �
+p �
+p �
+`Rn 
+�p0
+p �
+Fp �
+n �
+n �
+p �
+p �
+p �
+p �
+nS�
+�p �
+n �
+p �
+p �
+p �
+����
+p@�
+n �
+dp �
+nU�
+RTn 
+�p@�
+n �
+p �
+n �
+�p0
+p �
+n �
+n@a
+n e
+p �
+"n f
+p0�
+n �
+p �
+n �
+2q 
+n �
+n �
+p05
+n �
+p �
+p07
+n 8
+n �
+p �
+q0�
+n �
+�n �
+p �
+p �
+nR�
+n �
+n �
+?p@
+Cen0
+n �
+n �
+p �
+p �
+p �
+����p@�
+n �
+p �
+nT�
+p �
+p@�
+n �
+p �
+p �
+r @
+R!j
+T m
+T!n
+q �
+5C#
+p0l
+n i
+(�n
+q �
+q �
+o5X
+p �
+p0�
+n _
+p �
+#"�
+n �
+n@�
+!4(�n
+n0�
+p �
+p �
+n $
+c72
+n �
+n@�
+(�n
+(�n
+�2n 
+p �
+n �
+r05
+p0�
+n L
+n M
+n N
+T |
+T!}
+n W
+n Q
+n E
+n F
+n O
+n R
+n T
+n G
+n I
+q <
+n �
+r0C
+p (
+r @
+n 4
+q �
+q <
+p 0
+n b
+�r 0
+n �
+p0.
+r @
+�!q
+�#<.
+p f
+Aq 
+����n 
+�p `
+p A
+p A
+p A
+p A
+cn 
+�p0
+p A
+p 6
+n 8
+n e
+n0<
+n 8
+n e
+p f
+n X
+n0<
+n 8
+n e
+p f
+n �
+n D
+n �
+(�n
+��n
+��"
+p 6
+n0<
+n 8
+n e
+p 6
+n 8
+n e
+p f
+n e
+p A
+"n f
+n �
+�p@g
+p A
+p A
+nQ�
+n b
+p �
+n �
+2q 
+n �
+n �
+r @
+p f
+r @
+p f
+n b
+r @
+p05
+n e
+p f
+n b
+p f
+r @
+q0�
+p f
+r @
+p f
+n b
+q0�
+p �
+�n �
+n �
+p A
+p A
+p A
+p A
+nT�
+n �
+n �
+����p@g
+Gp A
+p A
+nZ�
+n �
+p@g
+n �
+p c
+p0@
+p0@
+p c
+p  
+p0@
+p "
+p0@
+p c
+p $
+p0@
+�p@g
+p A
+nZ�
+��b
+n �
+p c
+n �
+p@g
+p A
+nZ�
+��n 
+p �
+!�#��
+�5�
+(�"
+n �
+n0�
+�p `
+n �
+p A
+p A
+p A
+p A
+n_�
+��"
+p *
+n �
+p &
+p0@
+p@g
+p A
+nZ�
+��n 
+p c
+n �
+p@g
+p A
+nZ�
+��n 
+r -
+5� 
+r 0
+r -
+r 0
+n �
+(�"
+p �
+n �
+n0�
+�p `
+n �
+p A
+p A
+p A
+p A
+n[�
+��"
+p02
+n �
+p A
+nZ�
+��v
+p0@
+p0@
+p@g
+p A
+nZ�
+��n 
+p c
+p0@
+p@g
+p A
+nZ�
+��n 
+p c
+n �
+p@g
+p A
+nZ�
+�Zn 
+p �
+!U#V�
+y5W$
+��q
+�#<.
+(�"
+n �
+n0�
+�p `
+n �
+p A
+p A
+p A
+p A
+nX�
+dW"
+p 7
+n �
+n d
+$ �
+q0o
+q0n
+q0n
+q r
+q r
+n �
+n0�
+ Ay
+q0|
+q q
+q0o
+q0n
+q0n
+$ �
+n0�
+$ �
+n �
+q q
+$0�
+n �
+n �
+n0�
+$Q�
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+$ �
+n0:
+�!"
+q0�
+45$�
+q y
+q y
+����
+��q
+����n
+�@�
+D�$
+�d�@�
+D�$
+�d�@�
+w�'�
+r0I
+!#51
+n �
+r@B
+n .
+q0{
+q �
+�'n0
+�Z2
+�ur@B
+r@H
+�B�
+�?r0G
+r0A
+n �
+q q
+$0�
+n �
+n �
+T0�
+n@p
+p n
+[ �
+[ �
+p05
+n 2
+!Cn 
+#4!
+@n@
+TP�
+TQ�
+n@p
+T �
+n r
+ ��
+ ��
+ ��
+ ��
+ ��
+ ��
+ ��
+ ��
+ ��
+ ��
+ ��
+ ��
+ ��
+ ��
+ ��
+ ��
+ ��
+ ��
+ Ȼ
